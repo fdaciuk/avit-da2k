@@ -20,4 +20,4 @@ bash -c "$(curl https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/insta
 
 ## License
 
-[MIT]() &copy; Fernando Daciuk
+[MIT](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Fernando Daciuk
