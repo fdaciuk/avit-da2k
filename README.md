@@ -10,9 +10,11 @@ wget
 
 ## Installation
 
-```console
-bash -c "$(wget -O - https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/install.sh)"
-```
+- Copy `avit-da2k.zsh-theme` to `~/.oh-my-zsh/themes/`
+- Add `ZSH_THEME="avit-da2k"` on `~/.zshrc`
+- Run `source ~/.zshrc`
+
+Enjoy ;)
 
 ## Differences from avit
 
