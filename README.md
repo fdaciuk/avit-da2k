@@ -12,11 +12,11 @@ bash -c "$(curl https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/insta
 
 **Right arrow:**
 
-![]()
+![](arrow.png)
 
 **Dots instead left arrow:**
 
-![]()
+![](dots.png)
 
 ## License
 
