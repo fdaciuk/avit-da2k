@@ -2,10 +2,16 @@
 
 > oh-my-zsh theme based on avit theme
 
+## Dependencies
+
+```
+wget
+```
+
 ## Installation
 
 ```console
-bash -c "$(curl https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/install.sh)"
+bash -c "$(wget -O - https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/install.sh)"
 ```
 
 ## Differences from avit

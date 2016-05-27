@@ -1,5 +1,4 @@
 #! /bin/bash
 
-curl https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/avit-da2k.zsh-theme
+wget https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/avit-da2k.zsh-theme
 mv ./avit-da2k.zsh-theme ~/.oh-my-zsh/themes/
-rm ./install.sh
