@@ -1,4 +1,4 @@
-# AVIT ZSH Theme
+# AVIT Da2k ZSH Theme
 
 PROMPT='
 $(_user_host)${_current_dir} $(git_prompt_info) $(_ruby_version)
