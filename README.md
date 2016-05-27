@@ -10,7 +10,7 @@ wget
 
 ## Installation
 
-- Copy `avit-da2k.zsh-theme` to `~/.oh-my-zsh/themes/`
+- Copy [`avit-da2k.zsh-theme`](https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/avit-da2k.zsh-theme) to `~/.oh-my-zsh/themes/`
 - Add `ZSH_THEME="avit-da2k"` on `~/.zshrc`
 - Run `source ~/.zshrc`
 
