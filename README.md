@@ -2,6 +2,10 @@
 
 > oh-my-zsh theme based on avit theme
 
+## Dependencies
+
+Just [ZSH](http://www.zsh.org/) and [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) =)
+
 ## Installation
 
 - Copy [`avit-da2k.zsh-theme`](https://raw.githubusercontent.com/fdaciuk/avit-da2k/master/avit-da2k.zsh-theme) to `~/.oh-my-zsh/themes/`
